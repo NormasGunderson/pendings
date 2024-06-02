@@ -1,0 +1,15 @@
+.header {
+    color: rgba(163, 163, 163, 0.979);
+    background-color: rgba(7, 18, 98, 0.955);
+    box-shadow: 0 4px 6px rgba(11, 34, 239, 0.445);
+    text-align: center;
+    font-weight: bold;
+    height: 50px;
+    padding: 10px;
+    font-size: 2em;
+    z-index: 100;
+}
+.styles.header {
+    margin-top: 50pc;
+
+}
